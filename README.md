@@ -71,3 +71,7 @@ Compare figures 4 and 5 with figures 1 and 2. Figure 6 uses `PID x TIME` as seed
 | ![](plots/parallel_seeded_dist_windows.png) |
 | :--: |
 | Figure 6 |
+
+## Acknowledgements
+
+* [Chami Lamelas](https://sites.google.com/brandeis.edu/chamilamelas) - author
